@@ -13,7 +13,7 @@ Aqui estão alguns dos projetos em que trabalhei e que estão incluídos neste p
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais estou familiarizado:
 * Linguagens de Programação: CSS,HTML,JavaScript, Jupyter, Python
-* Ferramentas de Teste: Selenium, JUnit, TestNG, Postman, Soapui, Cycypress
+* Ferramentas de Teste: Selenium, JUnit, TestNG, Postman, Soapui, Cypress
 * Controle de Versão: Git, GitHub
 * Metodologias: Agile, Scrum
 * Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops 
