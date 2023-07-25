@@ -12,11 +12,11 @@ Aqui estão alguns dos projetos em que trabalhei e que estão incluídos neste p
 * Academia: O Academia Fitness é um site dedicado a promover uma academia de ginástica e condicionamento físico. O objetivo principal do site é fornecer informações sobre a academia, seus serviços, horários de funcionamento, preços, e também permitir que os usuários entrem em contato com a equipe da academia para obter mais informações ou agendar uma visita.
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais estou familiarizado:
-Linguagens de Programação: CSS,HTML,JavaScript, Jupyter, Python
-Ferramentas de Teste: Selenium, JUnit, TestNG
-Controle de Versão: Git, GitHub
-Metodologias: Agile, Scrum
-Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops 
+* Linguagens de Programação: CSS,HTML,JavaScript, Jupyter, Python
+* Ferramentas de Teste: Selenium, JUnit, TestNG
+* Controle de Versão: Git, GitHub
+* Metodologias: Agile, Scrum
+* Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops 
 ## Contato
 Se você estiver interessado em colaborar em projetos, trocar experiências ou simplesmente bater um papo, fique à vontade para entrar em contato comigo através do meu e-mail: bertinmaquez84@gmail.com
 ## Considerações Finais
