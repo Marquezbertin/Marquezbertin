@@ -15,8 +15,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou familiariza
 * Linguagens de Programação: CSS,HTML,JavaScript, Jupyter, Python
 * Ferramentas de Teste: Selenium, JUnit, TestNG, Postman, Soapui, Cypress
 * Controle de Versão: Git, GitHub
-* Metodologias: Agile, Scrum
-* Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops 
+* Metodologias: Agile, Scrum, Kanban
+* Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops, GitLab, Trello
 ## Contato
 Se você estiver interessado em colaborar em projetos, trocar experiências ou simplesmente bater um papo, fique à vontade para entrar em contato comigo através do meu e-mail: bertinmaquez84@gmail.com
 ## Considerações Finais
