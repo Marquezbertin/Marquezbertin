@@ -1,3 +1,5 @@
+[![Banner](http://patorjk.com/software/taag/#p=display&h=0&v=2&f=Banner&t=Quality%20Assurance)](https://github.com/Marquezbertin)
+
 # Bruno's Portfolio 👋
 
 ## Introdução
