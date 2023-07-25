@@ -23,9 +23,6 @@ Se você estiver interessado em colaborar em projetos, trocar experiências ou s
 ## Considerações Finais
 Obrigado por visitar meu portfólio! Estou sempre trabalhando em novos projetos e buscando novas oportunidades para aprimorar minhas habilidades como QA. Sinta-se à vontade para explorar os projetos aqui apresentados e fornecer qualquer feedback ou sugestão. Estou ansioso para aprender e crescer juntos na busca pela excelência em testes de software.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquezbertin&langs_count=6&layout=compact)](https://github.com/Marquezbertin)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marquezbertin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marquezbertin&theme=github-dark-blue&hide_border=false)<br/>
