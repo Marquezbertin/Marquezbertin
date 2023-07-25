@@ -25,3 +25,9 @@ Obrigado por visitar meu portfólio! Estou sempre trabalhando em novos projetos 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquezbertin&langs_count=6&layout=compact)](https://github.com/Marquezbertin)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Marquezbertin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Marquezbertin&theme=github-dark-blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquezbertin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
