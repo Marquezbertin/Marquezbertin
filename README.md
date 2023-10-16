@@ -8,11 +8,6 @@
                               __/ |                                                  
                              |___/                                                   
 </pre>
-<!-- Typing SVG  -->
-
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=7dcfff&center=true&vCenter=true&lines="Quality Assurance+Analista Sistemas;Apaixonado+por+tecnologia+%E2%99%A1;Buscando+novos+conhecimentos;">
-  </p>
 
 # Bruno's Portfolio 👋
 
