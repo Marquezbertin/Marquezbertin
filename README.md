@@ -11,6 +11,9 @@
 
 # Bruno's Portfolio 👋
 
+<iframe src="https://open.spotify.com/embed/playlist/66ZQSVszTBl6E9RyEfKR9W?si=53e430d90c5442c8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
 ## Introdução
 Olá! Sou o Bruno, um Analista de Testes / QA com experiência na empresa SmartLoad Tecnologia e em projetos da Eunerd como QA Tester. Este repositório contém uma seleção dos projetos e trabalhos que venho desenvolvendo ao longo da minha carreira como profissional de qualidade de software.
 ## Sobre Mim 😃
