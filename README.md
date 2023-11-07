@@ -11,12 +11,7 @@
 
 # Bruno's Portfolio 👋
 
-<a href="https://open.spotify.com/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086" target="_blank">
-  <i class="fas fa-volume-up"></i> <!-- Ícone de som -->
-</a>
-
-<iframe src="https://open.spotify.com/embed/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+[🔊 Playlist no Spotify](https://open.spotify.com/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086)
 
 ## Introdução
 Olá! Sou o Bruno, um Analista de Testes / QA com experiência na empresa SmartLoad Tecnologia e em projetos da Eunerd como QA Tester. Este repositório contém uma seleção dos projetos e trabalhos que venho desenvolvendo ao longo da minha carreira como profissional de qualidade de software.
