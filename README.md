@@ -11,9 +11,9 @@
 
 # Bruno's Portfolio 👋
 
-<div style="text-align: center;">
+<a href="https://open.spotify.com/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086" target="_blank">
   <i class="fas fa-volume-up"></i> <!-- Ícone de som -->
-</div>
+</a>
 
 <iframe src="https://open.spotify.com/embed/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
