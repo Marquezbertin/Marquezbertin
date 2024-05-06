@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou familiariza
 * Ferramentas de Gerenciamento de Projetos: JIRA, Microsolft Devops, GitLab, Trello
 * Prototipação: Figma, Wordpress , Mobrise 
 ## Contato 📧
-Se você estiver interessado em colaborar em projetos, trocar experiências ou simplesmente bater um papo, fique à vontade para entrar em contato comigo através do meu e-mail: bertinmaquez84@gmail.com
+Se você estiver interessado em colaborar em projetos, trocar experiências ou simplesmente bater um papo, fique à vontade para entrar em contato comigo através do meu e-mail: bertinmarquez84@gmail.com
 ## Considerações Finais
 Obrigado por visitar meu portfólio! Estou sempre trabalhando em novos projetos e buscando novas oportunidades para aprimorar minhas habilidades como QA. Sinta-se à vontade para explorar os projetos aqui apresentados e fornecer qualquer feedback ou sugestão. Estou ansioso para aprender e crescer juntos na busca pela excelência em testes de software.
 
