@@ -14,7 +14,7 @@
 [🎵 Playlist no Spotify](https://open.spotify.com/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086)
 
 ## Introdução
-Olá! Sou o Bruno, um Analista de Testes / QA com experiência em testes funcionais e não funcionais, exploratórios, de usabilidade e compotamento, testes de carga, testes de integração, e testes automatizados. Sou Graduado em Internet da Coisas e Computação em Nuvem e cursando MBA em Gestão da Qualidade de Software, recentemente conclui as certificações Certificado ASTFC-AICS® (Associação Internacional de Testes de Software), Certificação SFC™" (SCRUM), e ISO 9001 Quality Management Systems Associate™. 
+Olá! Sou o Bruno, um Analista de Testes / QA com experiência em testes funcionais e não funcionais, exploratórios, de usabilidade e comportamento, testes de carga, testes de integração, e testes automatizados. Sou Graduado em Internet da Coisas e Computação em Nuvem e cursando MBA em Gestão da Qualidade de Software, recentemente conclui as certificações Certificado ASTFC-AICS® (Associação Internacional de Testes de Software), Certificação SFC™" (SCRUM), e ISO 9001 Quality Management Systems Associate™. 
 Este repositório contém uma seleção dos projetos e trabalhos que venho desenvolvendo ao longo da minha carreira como profissional de qualidade de software.
 ## Sobre Mim 😃
 Sou apaixonado por garantir a qualidade dos produtos de software e contribuir para o sucesso dos projetos em que estou envolvido. Ao longo dos anos, tenho me dedicado a aprimorar minhas habilidades em testes automatizados, testes manuais, elaboração de planos de testes e colaboração efetiva com equipes de desenvolvimento.
