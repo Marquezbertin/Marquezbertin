@@ -11,7 +11,7 @@
 
 # Bruno's Portfolio 👋
 
-[🎵 Playlist no Spotify](https://open.spotify.com/playlist/66ZQSVszTBl6E9RyEfKR9W?si=7ecae0d409234086)
+![Star Wars](https://starwarsgifs.com/tagged/i)
 
 ## Introdução
 Olá! Sou o Bruno, um Analista de Testes / QA com experiência em testes funcionais e não funcionais, exploratórios, de usabilidade e comportamento, testes de carga, testes de integração, e testes automatizados. Sou Graduado em Internet da Coisas e Computação em Nuvem e cursando MBA em Gestão da Qualidade de Software, recentemente conclui as certificações Certificado ASTFC-AICS® (Associação Internacional de Testes de Software), Certificação SFC™" (SCRUM), e ISO 9001 Quality Management Systems Associate™. 
