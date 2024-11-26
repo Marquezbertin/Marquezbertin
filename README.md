@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos em que trabalhei e que estão incluídos neste p
 * [Barbearia](https://github.com/Marquezbertin/barbearia) : O Barbearia é um site dedicado a promover uma barbearia sofisticada e de alta qualidade. O objetivo principal do site é fornecer informações sobre os serviços oferecidos pela barbearia, os profissionais especializados, os produtos utilizados e também permitir que os clientes agendem um horário de atendimento.
 ## Tecnologias e Ferramentas 📈 
 Aqui estão algumas das tecnologias e ferramentas com as quais estou familiarizado:
-* Linguagens de Programação: Python, CSS, HTML,JavaScript, C# 
+* Linguagens de Programação: Python, CSS, HTML,JavaScript, 
 * Ferramentas de Teste: Selenium, JUnit, TestNG, Postman, Soapui, Cypress, Robot Framework
 * Controle de Versão: Git, GitHub
 * Metodologias: Agile, Scrum, Kanban
