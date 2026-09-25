@@ -12,7 +12,7 @@
 # Bruno Bertin Marquez
 
 **Quality Assurance Engineer** · São Pedro/SP, Brasil
-Exaltronic Digital · [despertarqa.net](https://www.despertaraq.net/) · [bertinmarquez84@gmail.com](mailto:bertinmarquez84@gmail.com)
+Exato · [despertarqa.net](https://www.despertaraq.net/) · [bertinmarquez84@gmail.com](mailto:bertinmarquez84@gmail.com)
 
 ![Profile Views](https://github-readme-stats-fast.vercel.app/api?username=Marquezbertin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt_BR)
 ![Streak](https://streak-stats.demolab.com?user=Marquezbertin&theme=github-dark-blue&hide_border=true&locale=pt_BR)
