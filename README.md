@@ -118,7 +118,7 @@ Cursos e guias gratuitos que escrevi para quem está começando do zero:
 ## Contato
 
 - ✉️ **E-mail:** [bertinmarquez84@gmail.com](mailto:bertinmarquez84@gmail.com)
-- 💼 **LinkedIn:** [in/brunobertinmarquez](https://www.linkedin.com/in/brunobertinmarquez) *(ajustar URL)*
+- 💼 **LinkedIn:** [in/bruno-bertin](https://www.linkedin.com/in/bruno-bertin/)
 - 🌐 **Blog:** [despertarqa.net](https://www.despertaraq.net/)
 
 Obrigado por visitar! Se quiser conversar sobre QA, automação de testes ou educação em tecnologia,
